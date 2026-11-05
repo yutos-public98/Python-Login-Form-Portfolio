@@ -36,15 +36,14 @@ Pythonエンジニア基礎試験の学習で身につけた基礎文法をも�
 
 ## プロジェクト構成
 
-- |ファイル名|機能|
-- |auth.py|認証処理|
-- |portfolio.py|
-- |database.py|SQLiteを使ったデータベース|
-- |login_form.py|ログイン|
-- |login_success.py|認証成功後の画面|
-- |register.py|ユーザー登録|
-- |README.md|各ファイルの概要説明|
-- |users.db|ユーザー情報を保存するSQLiteデータベース|
+|ファイル名|機能|
+|auth.py|認証処理|
+|database.py|SQLiteを使ったデータベース|
+|login_form.py|ログイン|
+|login_success.py|認証成功後の画面|
+|register.py|ユーザー登録|
+|README.md|各ファイルの概要説明|
+|users.db|ユーザー情報を保存するSQLiteデータベース|
 
 ## セキュリティ対策
 
